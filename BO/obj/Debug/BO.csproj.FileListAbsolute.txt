@@ -1,0 +1,10 @@
+C:\Shuja\DotNetSamples\F10\NTierArchitecture\EMS2\BO\bin\Debug\BO.dll
+C:\Shuja\DotNetSamples\F10\NTierArchitecture\EMS2\BO\bin\Debug\BO.pdb
+C:\Shuja\DotNetSamples\F10\NTierArchitecture\EMS2\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Shuja\DotNetSamples\F10\NTierArchitecture\EMS2\BO\obj\Debug\BO.dll
+C:\Shuja\DotNetSamples\F10\NTierArchitecture\EMS2\BO\obj\Debug\BO.pdb
+E:\DotNetSamples\F10\NTierArchitecture\EMS2\BO\bin\Debug\BO.dll
+E:\DotNetSamples\F10\NTierArchitecture\EMS2\BO\bin\Debug\BO.pdb
+E:\DotNetSamples\F10\NTierArchitecture\EMS2\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+E:\DotNetSamples\F10\NTierArchitecture\EMS2\BO\obj\Debug\BO.dll
+E:\DotNetSamples\F10\NTierArchitecture\EMS2\BO\obj\Debug\BO.pdb

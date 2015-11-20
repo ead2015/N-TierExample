@@ -1,0 +1,14 @@
+C:\Shuja\DotNetSamples\F10\NTierArchitecture\EMS2\DAL\bin\Debug\DAL.dll
+C:\Shuja\DotNetSamples\F10\NTierArchitecture\EMS2\DAL\bin\Debug\DAL.pdb
+C:\Shuja\DotNetSamples\F10\NTierArchitecture\EMS2\DAL\bin\Debug\BO.dll
+C:\Shuja\DotNetSamples\F10\NTierArchitecture\EMS2\DAL\bin\Debug\BO.pdb
+C:\Shuja\DotNetSamples\F10\NTierArchitecture\EMS2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Shuja\DotNetSamples\F10\NTierArchitecture\EMS2\DAL\obj\Debug\DAL.dll
+C:\Shuja\DotNetSamples\F10\NTierArchitecture\EMS2\DAL\obj\Debug\DAL.pdb
+E:\DotNetSamples\F10\NTierArchitecture\EMS2\DAL\bin\Debug\DAL.dll
+E:\DotNetSamples\F10\NTierArchitecture\EMS2\DAL\bin\Debug\DAL.pdb
+E:\DotNetSamples\F10\NTierArchitecture\EMS2\DAL\bin\Debug\BO.dll
+E:\DotNetSamples\F10\NTierArchitecture\EMS2\DAL\bin\Debug\BO.pdb
+E:\DotNetSamples\F10\NTierArchitecture\EMS2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\DotNetSamples\F10\NTierArchitecture\EMS2\DAL\obj\Debug\DAL.dll
+E:\DotNetSamples\F10\NTierArchitecture\EMS2\DAL\obj\Debug\DAL.pdb
